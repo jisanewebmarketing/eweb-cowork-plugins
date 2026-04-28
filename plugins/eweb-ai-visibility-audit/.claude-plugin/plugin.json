@@ -1,0 +1,19 @@
+{
+  "name": "eweb-ai-visibility-audit",
+  "version": "0.1.0",
+  "description": "E-Web Marketing's reusable AI Visibility Audit workflow. Runs interactive client-URL and competitor-suggestion checkpoints, pulls live SEMrush data, and delivers a branded DOCX report plus a Gamma presentation on the E-web Brand theme.",
+  "author": {
+    "name": "E-Web Marketing"
+  },
+  "keywords": [
+    "seo",
+    "ai-visibility",
+    "semrush",
+    "gamma",
+    "audit",
+    "report",
+    "generative-search",
+    "eweb"
+  ],
+  "license": "Proprietary"
+}
