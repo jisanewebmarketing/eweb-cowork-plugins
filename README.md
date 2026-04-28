@@ -90,4 +90,4 @@ eweb-cowork-marketplace/
 ## Maintainer
 
 E-Web Marketing — Senior SEO Strategy Team
-plugins@ewebmarketing.com.au
+jisan@ewebmarketing.com.au
