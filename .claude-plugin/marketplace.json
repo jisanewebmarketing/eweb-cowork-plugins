@@ -1,0 +1,20 @@
+{
+  "name": "eweb-internal",
+  "version": "1.0.0",
+  "owner": {
+    "name": "E-Web Marketing",
+    "email": "plugins@ewebmarketing.com.au"
+  },
+  "description": "Internal Claude Cowork plugin marketplace for E-Web Marketing — SEO, AI visibility, and client-deliverable workflows.",
+  "plugins": [
+    {
+      "name": "eweb-ai-visibility-audit",
+      "source": "./plugins/eweb-ai-visibility-audit",
+      "description": "Run the full AI Visibility Audit workflow for a client — interactive SEMrush competitor discovery, data pull, branded DOCX + Gamma deck delivery on the E-web Brand theme.",
+      "version": "0.1.0",
+      "category": "seo",
+      "author": "E-Web Marketing",
+      "keywords": ["seo", "ai-visibility", "semrush", "gamma", "audit"]
+    }
+  ]
+}
